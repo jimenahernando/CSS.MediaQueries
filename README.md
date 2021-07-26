@@ -18,6 +18,6 @@
 
 - @media screen and(){}
 
--@media print and (){}
+- @media print and (){}
 
 Tutorial: https://www.youtube.com/watch?v=2KL-z9A56SQ&t=181s&ab_channel=KevinPowell
