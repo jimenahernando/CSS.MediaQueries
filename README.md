@@ -1,25 +1,23 @@
 # CSS.MediaQueries
 
-/* mobile first */
-@media(min-width: 600px){
-}
+### Design: 
 
-/* desktop first */
-@media(max-width: 600px){
-}
+- mobile first
+  @media(min-width: 600px){}
 
-/* width orientation screen */
-@media(orientation: landscape){
-}
+- desktop first
+  @media(max-width: 600px){}
 
-@media(orientation: portrait){
-}
+### Orientation screen:
 
-/* specify work for a screen or print */
-@media screen and(){
-}
+- @media(orientation: landscape){}
 
-@media print and (){
-}
+- @media(orientation: portrait){}
+
+### Specify work for a screen or print
+
+- @media screen and(){}
+
+-@media print and (){}
 
 Tutorial: https://www.youtube.com/watch?v=2KL-z9A56SQ&t=181s&ab_channel=KevinPowell
